@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/QR_code_generate_and_reader/static/css/main.31d6cfe0.css",
+    "main.js": "/QR_code_generate_and_reader/static/js/main.795b09cf.js",
+    "index.html": "/QR_code_generate_and_reader/index.html",
+    "main.795b09cf.js.map": "/QR_code_generate_and_reader/static/js/main.795b09cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.795b09cf.js"
+  ]
+}
